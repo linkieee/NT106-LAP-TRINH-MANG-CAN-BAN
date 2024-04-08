@@ -1,0 +1,15 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\bin\Debug\FileAndStreamIO.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\bin\Debug\FileAndStreamIO.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\bin\Debug\FileAndStreamIO.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Menu.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Bai1.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Bai2.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Bai3.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Bai4.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Backup folder\LAP TRINH MANG CAN BAN\THUC HANH\TUAN 2\FileAndStreamIO\FileAndStreamIO\obj\Debug\FileAndStreamIO.Bai5.resources
