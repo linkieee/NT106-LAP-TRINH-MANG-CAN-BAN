@@ -25,5 +25,14 @@ namespace Working_with_Web_Server
             b1 = null;
             this.Show();
         }
+
+        private void Bai2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Bai2 b2 = new Bai2();
+            b2.ShowDialog();
+            b2 = null;
+            this.Show();
+        }
     }
 }
