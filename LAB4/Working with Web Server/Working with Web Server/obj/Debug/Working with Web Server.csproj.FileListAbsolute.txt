@@ -1,0 +1,11 @@
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.exe.config
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.exe
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.pdb
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.AssemblyReference.cache
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai1.resources
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Menu.resources
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Properties.Resources.resources
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.GenerateResource.cache
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.CoreCompileInputs.cache
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.exe
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.pdb
