@@ -10,3 +10,4 @@ C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.exe
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.pdb
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai2.resources
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai3.resources

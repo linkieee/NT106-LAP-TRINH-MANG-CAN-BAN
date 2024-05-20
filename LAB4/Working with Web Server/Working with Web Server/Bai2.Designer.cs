@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.tbHTML = new System.Windows.Forms.RichTextBox();
-            this.btnGet = new System.Windows.Forms.Button();
+            this.btnPost = new System.Windows.Forms.Button();
             this.tbURL = new System.Windows.Forms.RichTextBox();
-            this.tbContent = new System.Windows.Forms.RichTextBox();
+            this.tbData = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // tbHTML
@@ -42,15 +42,15 @@
             this.tbHTML.TabIndex = 8;
             this.tbHTML.Text = "";
             // 
-            // btnGet
+            // btnPost
             // 
-            this.btnGet.Location = new System.Drawing.Point(668, 14);
-            this.btnGet.Name = "btnGet";
-            this.btnGet.Size = new System.Drawing.Size(116, 38);
-            this.btnGet.TabIndex = 7;
-            this.btnGet.Text = "POST";
-            this.btnGet.UseVisualStyleBackColor = true;
-            this.btnGet.Click += new System.EventHandler(this.btnGet_Click);
+            this.btnPost.Location = new System.Drawing.Point(668, 14);
+            this.btnPost.Name = "btnPost";
+            this.btnPost.Size = new System.Drawing.Size(116, 38);
+            this.btnPost.TabIndex = 7;
+            this.btnPost.Text = "POST";
+            this.btnPost.UseVisualStyleBackColor = true;
+            this.btnPost.Click += new System.EventHandler(this.btnPost_Click);
             // 
             // tbURL
             // 
@@ -60,22 +60,22 @@
             this.tbURL.TabIndex = 6;
             this.tbURL.Text = "";
             // 
-            // tbContent
+            // tbData
             // 
-            this.tbContent.Location = new System.Drawing.Point(16, 67);
-            this.tbContent.Name = "tbContent";
-            this.tbContent.Size = new System.Drawing.Size(630, 39);
-            this.tbContent.TabIndex = 9;
-            this.tbContent.Text = "";
+            this.tbData.Location = new System.Drawing.Point(16, 67);
+            this.tbData.Name = "tbData";
+            this.tbData.Size = new System.Drawing.Size(630, 39);
+            this.tbData.TabIndex = 9;
+            this.tbData.Text = "";
             // 
             // Bai2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.tbContent);
+            this.Controls.Add(this.tbData);
             this.Controls.Add(this.tbHTML);
-            this.Controls.Add(this.btnGet);
+            this.Controls.Add(this.btnPost);
             this.Controls.Add(this.tbURL);
             this.Name = "Bai2";
             this.Text = "Bai2";
@@ -86,8 +86,8 @@
         #endregion
 
         private System.Windows.Forms.RichTextBox tbHTML;
-        private System.Windows.Forms.Button btnGet;
+        private System.Windows.Forms.Button btnPost;
         private System.Windows.Forms.RichTextBox tbURL;
-        private System.Windows.Forms.RichTextBox tbContent;
+        private System.Windows.Forms.RichTextBox tbData;
     }
 }

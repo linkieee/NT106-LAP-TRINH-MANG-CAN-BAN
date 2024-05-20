@@ -9,6 +9,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace Working_with_Web_Server
 {
@@ -19,14 +20,15 @@ namespace Working_with_Web_Server
             InitializeComponent();
         }
 
-        private void btnGet_Click(object sender, EventArgs e)
+        private void btnPost_Click(object sender, EventArgs e)
         {
             string url = tbURL.Text.Trim();
-            string htmlContent = GetHTML(url);
+            string postData = tbData.Text.Trim();
+            string responseContent = PostData(url, postData);
 
-            if (htmlContent != null)
+            if (responseContent != null)
             {
-                tbHTML.Text = htmlContent;
+                tbHTML.Text = responseContent;
             }
             else
             {
@@ -34,13 +36,22 @@ namespace Working_with_Web_Server
             }
         }
 
-        private string GetHTML(string szURL)
+        private string PostData(string url, string postData)
         {
             try
             {
-                WebRequest request = WebRequest.Create(szURL);
+                byte[] byteArray = Encoding.UTF8.GetBytes(postData);
+                WebRequest request = WebRequest.Create(url);
+                request.Method = "POST";
+                request.ContentType = "application/x-www-form-urlencoded";
+                request.ContentLength = byteArray.Length;
+
+                Stream dataStream = request.GetRequestStream();
+                dataStream.Write(byteArray, 0, byteArray.Length);
+                dataStream.Close();
+
                 WebResponse response = request.GetResponse();
-                Stream dataStream = response.GetResponseStream();
+                dataStream = response.GetResponseStream();
                 StreamReader reader = new StreamReader(dataStream);
                 string responseFromServer = reader.ReadToEnd();
                 reader.Close();
@@ -53,5 +64,6 @@ namespace Working_with_Web_Server
                 return null;
             }
         }
+
     }
 }
