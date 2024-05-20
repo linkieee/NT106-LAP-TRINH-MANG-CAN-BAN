@@ -22,18 +22,18 @@ namespace Working_with_Web_Server
 
         private void btnPost_Click(object sender, EventArgs e)
         {
-            string url = tbURL.Text.Trim();
-            string postData = tbData.Text.Trim();
-            string responseContent = PostData(url, postData);
+             string url = tbURL.Text.Trim();
+             string postData = tbData.Text.Trim();
+             string responseContent = PostData(url, postData);
 
-            if (responseContent != null)
-            {
-                tbHTML.Text = responseContent;
-            }
-            else
-            {
-                tbHTML.Text = "Không thể tải nội dung từ URL đã cung cấp.";
-            }
+             if (responseContent != null)
+             {
+                 tbHTML.Text = responseContent;
+             }
+             else
+             {
+                 tbHTML.Text = "Không thể tải nội dung từ URL đã cung cấp.";
+             }
         }
 
         private string PostData(string url, string postData)

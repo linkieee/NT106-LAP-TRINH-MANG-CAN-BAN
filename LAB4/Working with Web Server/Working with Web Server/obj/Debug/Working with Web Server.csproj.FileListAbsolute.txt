@@ -11,3 +11,33 @@ C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.pdb
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai2.resources
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai3.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.exe.config
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.exe
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Working with Web Server.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\HtmlAgilityPack.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Newtonsoft.Json.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\HtmlAgilityPack.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\HtmlAgilityPack.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\bin\Debug\Newtonsoft.Json.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.AssemblyReference.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai1.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai2.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai3.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Bai4.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Menu.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.Properties.Resources.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working_with_Web_Server.ViewSource.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.GenerateResource.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.csproj.CoreCompileInputs.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working .F22EEAF3.Up2Date
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.exe
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB4\Working with Web Server\Working with Web Server\obj\Debug\Working with Web Server.pdb
