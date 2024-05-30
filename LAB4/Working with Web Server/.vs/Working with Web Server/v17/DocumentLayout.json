@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\viewsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\viewsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,12 +27,24 @@
       "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab4\\working with web server\\working with web server\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BFE053DB-50EC-4766-B7A8-D6157EEB5F17}|Working with Web Server\\Working with Web Server.csproj|solutionrelative:working with web server\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,30 +87,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.cs",
+              "RelativeDocumentMoniker": "Working with Web Server\\Bai4.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.cs",
+              "RelativeToolTip": "Working with Web Server\\Bai4.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAApwFYAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:15:03.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.Designer.cs",
+              "RelativeDocumentMoniker": "Working with Web Server\\Bai4.Designer.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.Designer.cs",
+              "RelativeToolTip": "Working with Web Server\\Bai4.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAWwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:23:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.cs",
+              "RelativeDocumentMoniker": "Working with Web Server\\Bai4.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai4.cs [Design]",
+              "RelativeToolTip": "Working with Web Server\\Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:12:34.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSource.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\ViewSource.cs",
+              "RelativeDocumentMoniker": "Working with Web Server\\ViewSource.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\ViewSource.cs [Design]",
+              "RelativeToolTip": "Working with Web Server\\ViewSource.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T01:12:32.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Bai3.cs",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai3.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai3.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai3.cs",
               "RelativeToolTip": "Working with Web Server\\Bai3.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBoAAAAqAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:55:48.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Bai3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai3.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai3.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai3.cs [Design]",
               "RelativeToolTip": "Working with Web Server\\Bai3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:54:46.75Z"
+              "WhenOpened": "2024-05-20T14:54:46.75Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Bai2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai2.Designer.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai2.Designer.cs",
@@ -102,23 +169,25 @@
               "RelativeToolTip": "Working with Web Server\\Bai2.Designer.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAswDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T10:21:11.042Z"
+              "WhenOpened": "2024-05-20T10:21:11.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Bai2.cs",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai2.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai2.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai2.cs",
               "RelativeToolTip": "Working with Web Server\\Bai2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:43:42.247Z"
+              "WhenOpened": "2024-05-15T09:43:42.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Menu.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Menu.cs",
@@ -126,33 +195,36 @@
               "RelativeToolTip": "Working with Web Server\\Menu.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:45:32.705Z"
+              "WhenOpened": "2024-05-15T09:45:32.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Menu.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Menu.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Menu.cs [Design]",
               "RelativeToolTip": "Working with Web Server\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:45:31.51Z"
+              "WhenOpened": "2024-05-15T09:45:31.51Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Bai2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai2.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai2.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai2.cs [Design]",
               "RelativeToolTip": "Working with Web Server\\Bai2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:40:28.83Z"
+              "WhenOpened": "2024-05-15T09:40:28.83Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Bai1.cs",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai1.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai1.cs",
@@ -160,18 +232,20 @@
               "RelativeToolTip": "Working with Web Server\\Bai1.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAcwDYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:17:50.355Z"
+              "WhenOpened": "2024-05-15T09:17:50.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Bai1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai1.cs",
               "RelativeDocumentMoniker": "Working with Web Server\\Bai1.cs",
               "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB4\\Working with Web Server\\Working with Web Server\\Bai1.cs [Design]",
               "RelativeToolTip": "Working with Web Server\\Bai1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:16:22.385Z"
+              "WhenOpened": "2024-05-15T09:16:22.385Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -43,5 +43,14 @@ namespace Working_with_Web_Server
             b3 = null;
             this.Show();
         }
+
+        private void Bai4_Click(object sender, EventArgs e)
+        {
+           // this.Hide();
+            Bai4 b4 = new Bai4();
+            b4.Show();
+           // b4 = null;
+           // this.Show();
+        }
     }
 }

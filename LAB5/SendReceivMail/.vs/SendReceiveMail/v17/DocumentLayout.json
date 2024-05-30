@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|c:\\users\\gialinh\\source\\repos\\nt106 lap trinh mang can ban\\lab5\\sendreceivmail\\sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|solutionrelative:sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\sendreceivmail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|solutionrelative:sendreceivmail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\sendreceivmail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|solutionrelative:sendreceivmail\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs",
+              "RelativeDocumentMoniker": "SendReceivMail\\Bai2.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs",
+              "RelativeToolTip": "SendReceivMail\\Bai2.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAxwDEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:18:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs",
+              "RelativeDocumentMoniker": "SendReceivMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs",
+              "RelativeToolTip": "SendReceivMail\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:49:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs",
+              "RelativeDocumentMoniker": "SendReceivMail\\Bai2.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs [Design]",
+              "RelativeToolTip": "SendReceivMail\\Bai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:48:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs",
+              "RelativeDocumentMoniker": "SendReceivMail\\Menu.cs",
+              "ToolTip": "C:\\Users\\gialinh\\source\\repos\\NT106 LAP TRINH MANG CAN BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs [Design]",
+              "RelativeToolTip": "SendReceivMail\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:45:03.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
