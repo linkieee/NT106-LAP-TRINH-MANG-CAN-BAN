@@ -135,11 +135,17 @@
             // 
             // tbPass
             // 
+            this.tbPass.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.tbPass.Location = new System.Drawing.Point(754, 28);
             this.tbPass.Multiline = true;
             this.tbPass.Name = "tbPass";
             this.tbPass.Size = new System.Drawing.Size(253, 35);
             this.tbPass.TabIndex = 10;
+<<<<<<< HEAD
+=======
+            this.tbPass.UseSystemPasswordChar = true;
+            this.tbPass.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
+>>>>>>> 569275a8ee99b89110815d2eb38ca625b1e05b64
             // 
             // Bai1
             // 
