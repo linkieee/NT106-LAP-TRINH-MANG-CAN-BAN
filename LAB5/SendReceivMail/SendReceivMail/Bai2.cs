@@ -71,5 +71,10 @@ namespace SendReceivMail
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void tbPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

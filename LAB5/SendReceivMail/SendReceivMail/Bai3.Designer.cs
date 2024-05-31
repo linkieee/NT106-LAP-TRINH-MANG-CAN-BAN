@@ -46,10 +46,10 @@
             // tbPass
             // 
             this.tbPass.Location = new System.Drawing.Point(704, 29);
-            this.tbPass.Multiline = true;
             this.tbPass.Name = "tbPass";
-            this.tbPass.Size = new System.Drawing.Size(253, 35);
+            this.tbPass.Size = new System.Drawing.Size(293, 26);
             this.tbPass.TabIndex = 21;
+            this.tbPass.UseSystemPasswordChar = true;
             // 
             // label5
             // 
@@ -80,17 +80,15 @@
             // tbMailto
             // 
             this.tbMailto.Location = new System.Drawing.Point(249, 87);
-            this.tbMailto.Multiline = true;
             this.tbMailto.Name = "tbMailto";
-            this.tbMailto.Size = new System.Drawing.Size(310, 35);
+            this.tbMailto.Size = new System.Drawing.Size(310, 26);
             this.tbMailto.TabIndex = 17;
             // 
             // tbMailfr
             // 
             this.tbMailfr.Location = new System.Drawing.Point(249, 31);
-            this.tbMailfr.Multiline = true;
             this.tbMailfr.Name = "tbMailfr";
-            this.tbMailfr.Size = new System.Drawing.Size(310, 35);
+            this.tbMailfr.Size = new System.Drawing.Size(310, 26);
             this.tbMailfr.TabIndex = 16;
             // 
             // label4

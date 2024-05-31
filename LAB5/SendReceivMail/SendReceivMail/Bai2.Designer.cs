@@ -72,6 +72,7 @@
             this.tbPassword.Size = new System.Drawing.Size(287, 26);
             this.tbPassword.TabIndex = 3;
             this.tbPassword.UseSystemPasswordChar = true;
+            this.tbPassword.TextChanged += new System.EventHandler(this.tbPassword_TextChanged);
             // 
             // label3
             // 
@@ -142,7 +143,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Bai2";
-            this.Text = "Bai1";
+            this.Text = "Bai2";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -9,7 +9,6 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace SendReceivMail
 {
@@ -24,7 +23,7 @@ namespace SendReceivMail
         {
             using (SmtpClient smtpClient = new SmtpClient("127.0.0.1"))
             {
-                string mailfrom = tbMailfr.Text.ToString().Trim();
+                string mailfrom = tbMailfrom.Text.ToString().Trim();
                 string mailto = tbMailto.Text.ToString().Trim();
                 string password = tbPass.Text.ToString().Trim();
                 var basicCredential = new NetworkCredential(mailfrom, password);
@@ -37,7 +36,7 @@ namespace SendReceivMail
                     message.From = fromAddress;
                     message.Subject = tbSubj.Text.ToString().Trim();
                     message.IsBodyHtml = true;
-                    message.Body = rtbBody.Text.ToString();
+                    message.Body = rbBody.Text.ToString();
                     message.To.Add(mailto);
 
                     try
