@@ -141,9 +141,9 @@
             this.tbPass.Location = new System.Drawing.Point(754, 28);
             this.tbPass.Multiline = true;
             this.tbPass.Name = "tbPass";
-            this.tbPass.PasswordChar = '*';
             this.tbPass.Size = new System.Drawing.Size(253, 35);
             this.tbPass.TabIndex = 10;
+            this.tbPass.UseSystemPasswordChar = true;
             this.tbPass.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
             // Bai1
