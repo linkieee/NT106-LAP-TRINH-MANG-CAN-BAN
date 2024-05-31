@@ -26,6 +26,7 @@ namespace SendReceivMail
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            try
             {
                 listView1.Columns.Add("Email", 200);
                 listView1.Columns.Add("From", 100);
@@ -64,6 +65,10 @@ namespace SendReceivMail
 
                     client.Disconnect(true);
                 }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
     }
