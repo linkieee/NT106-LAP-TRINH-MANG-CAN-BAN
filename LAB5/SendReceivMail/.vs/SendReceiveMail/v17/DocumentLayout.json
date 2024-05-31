@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|d:\\hoctap\\nt106 - ltmcb\\nt106-lap-trinh-mang-can-ban\\lab5\\sendreceivmail\\sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|d:\\hoctap\\nt106 - ltmcb\\nt106-lap-trinh-mang-can-ban\\lab5\\sendreceivmail\\sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceivMail.csproj|solutionrelative:sendreceivmail\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|d:\\hoctap\\nt106 - ltmcb\\nt106-lap-trinh-mang-can-ban\\lab5\\sendreceivmail\\sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{285A046D-38AF-4696-B57F-F52FF7F9CFEE}|SendReceivMail\\SendReceiveMail.csproj|solutionrelative:sendreceivmail\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -62,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bai1.cs",
               "DocumentMoniker": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai1.cs",
               "RelativeDocumentMoniker": "SendReceivMail\\Bai1.cs",
               "ToolTip": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai1.cs",
               "RelativeToolTip": "SendReceivMail\\Bai1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAcwD0AAAAJAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwD0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T01:40:25.698Z",
               "EditorCaption": ""
@@ -81,9 +81,8 @@
               "RelativeDocumentMoniker": "SendReceivMail\\Menu.cs",
               "ToolTip": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs [Design]",
               "RelativeToolTip": "SendReceivMail\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:32:33.261Z",
-              "EditorCaption": " [Design]"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T01:32:33.261Z"
             },
             {
               "$type": "Document",
@@ -93,19 +92,18 @@
               "RelativeDocumentMoniker": "SendReceivMail\\Bai1.cs",
               "ToolTip": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai1.cs [Design]",
               "RelativeToolTip": "SendReceivMail\\Bai1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:32:26.493Z",
-              "EditorCaption": " [Design]"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T01:32:26.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bai2.cs",
               "DocumentMoniker": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs",
               "RelativeDocumentMoniker": "SendReceivMail\\Bai2.cs",
               "ToolTip": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Bai2.cs",
               "RelativeToolTip": "SendReceivMail\\Bai2.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAhAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T17:18:28.497Z",
               "EditorCaption": ""
@@ -129,9 +127,8 @@
               "ToolTip": "D:\\HOCTAP\\NT106 - LTMCB\\NT106-LAP-TRINH-MANG-CAN-BAN\\LAB5\\SendReceivMail\\SendReceivMail\\Menu.cs",
               "RelativeToolTip": "SendReceivMail\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T01:32:33.078Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T01:32:33.078Z"
             },
             {
               "$type": "Document",
