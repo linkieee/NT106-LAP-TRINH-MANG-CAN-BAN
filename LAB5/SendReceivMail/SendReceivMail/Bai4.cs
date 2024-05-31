@@ -16,5 +16,19 @@ namespace SendReceivMail
         {
             InitializeComponent();
         }
+
+        private void btLogin_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Bai4main main = new Bai4main();
+            main.ShowDialog();
+            string user = tbUser.Text.ToString().Trim();
+            string pass = tbPass.Text.ToString().Trim();
+        }
+
+        private void btExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
