@@ -72,3 +72,4 @@ D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendRec
 D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.pdb
 D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Bai1.resources
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Bai1.resources
+C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Bai3.resources
