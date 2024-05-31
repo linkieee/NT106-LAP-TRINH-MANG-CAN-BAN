@@ -19,7 +19,11 @@ namespace SendReceivMail
 
         private void bai1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Bai1 b1 = new Bai1();
+            b1.ShowDialog();
+            b1 = null;
+            this.Show();
         }
 
         private void bai2_Click(object sender, EventArgs e)
