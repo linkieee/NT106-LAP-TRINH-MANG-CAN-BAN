@@ -34,3 +34,40 @@ C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\S
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendRece.4A27A0FA.Up2Date
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.exe
 C:\Users\gialinh\source\repos\NT106 LAP TRINH MANG CAN BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\SendReceivMail.exe.config
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\SendReceivMail.exe
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\SendReceivMail.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MailKit.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MimeKit.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Buffers.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Formats.Asn1.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Memory.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Numerics.Vectors.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.ValueTuple.dll
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MailKit.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MailKit.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MailKit.dll.config
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MimeKit.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MimeKit.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\MimeKit.dll.config
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Buffers.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Formats.Asn1.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Memory.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Numerics.Vectors.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\bin\Debug\System.ValueTuple.xml
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceiveMail.csproj.AssemblyReference.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Bai2.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Menu.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Properties.Resources.resources
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceiveMail.csproj.GenerateResource.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceiveMail.csproj.CoreCompileInputs.cache
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendRece.4A27A0FA.Up2Date
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.exe
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.pdb
+D:\HOCTAP\NT106 - LTMCB\NT106-LAP-TRINH-MANG-CAN-BAN\LAB5\SendReceivMail\SendReceivMail\obj\Debug\SendReceivMail.Bai1.resources
