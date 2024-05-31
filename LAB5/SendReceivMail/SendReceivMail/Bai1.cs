@@ -20,11 +20,6 @@ namespace SendReceivMail
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btSend_Click(object sender, EventArgs e)
         {
             using (SmtpClient smtpClient = new SmtpClient("127.0.0.1"))
@@ -55,16 +50,6 @@ namespace SendReceivMail
                     }
                 }
             }
-        }
-
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

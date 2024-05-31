@@ -34,5 +34,14 @@ namespace SendReceivMail
             b2 = null;
             this.Show();
         }
+
+        private void bai3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Bai3 b3 = new Bai3();
+            b3.ShowDialog();
+            b3 = null;
+            this.Show();
+        }
     }
 }
