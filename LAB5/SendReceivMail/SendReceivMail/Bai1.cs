@@ -48,6 +48,7 @@ namespace SendReceivMail
                     try
                     {
                         smtpClient.Send(message);
+                        MessageBox.Show("The message is succesfully sent");
                     }
                     catch (Exception ex)
                     {
